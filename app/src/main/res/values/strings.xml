@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="popularMovies">The most popular movies of </string>
+    <string name="submit">Submit</string>
+    <string name="yearText">2019</string>
+    <string name="movieDetailText">Bohemian Rhapsody</string>
+    <string name="plainReleaseText">Release: </string>
+    <string name="plainOverviewText">Overview</string>
+    <string name="count">1.</string>
+</resources>
